@@ -12,7 +12,7 @@ Trendy wordpress admin theme
 
 3/ have to do
 
-  a/ IE8support<br>
+  a/ IE8 support<br>
   b/ tidy css and remove orphans
   
 4/ Future releases
