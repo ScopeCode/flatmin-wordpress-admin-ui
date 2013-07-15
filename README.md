@@ -12,12 +12,12 @@ Trendy wordpress admin theme
 
 3/ have to do
 
-  a/ IE8support
+  a/ IE8support<br>
   b/ tidy css and remove orphans
   
 4/ Future releases
 
   a/ Light theme 
-  b/ fully responsive admin (mobile too)
+ 
 
 more infos ... www.flatmin.inkcreativ.com
