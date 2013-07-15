@@ -8,7 +8,16 @@ Trendy wordpress admin theme
 
 2/ Install
 
-1/ make a require once to init.php or copy/paste code in function.php .. enjoy ..
+  a/ make a require once to init.php or copy/paste code in function.php .. enjoy ..
 
+3/ have to do
+
+  a/ IE8support
+  b/ tidy css and remove orphans
+  
+4/ Future releases
+
+  a/ Light theme 
+  b/ fully responsive admin (mobile too)
 
 more infos ... www.flatmin.inkcreativ.com
