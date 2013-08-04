@@ -11,7 +11,7 @@ Author URI: http://inkcreativ.com
 function admin_css() 
 {
     $url = get_option('siteurl');
-    echo '<link rel="stylesheet" type="text/css" href="'.get_bloginfo('template_directory').'/    		admin_theme/wp-admin.css" />';
+    echo '<link rel="stylesheet" type="text/css" href="'.get_bloginfo('template_directory').'/admin_theme/wp-admin.css" />';
 
 }
 add_action('admin_enqueue_scripts', 'admin_css');
@@ -20,7 +20,7 @@ add_action('admin_enqueue_scripts', 'admin_css');
 
 function custom_login_css() 
 { 
-	echo '<link rel="stylesheet" type="text/css" href="'.get_bloginfo('template_directory').'/			admin_theme/wp-admin.css" />';
+	echo '<link rel="stylesheet" type="text/css" href="'.get_bloginfo('template_directory').'/admin_theme/wp-admin.css" />';
 }
 add_action('login_head', 'custom_login_css');
 
