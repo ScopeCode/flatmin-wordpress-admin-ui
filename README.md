@@ -8,7 +8,7 @@ Trendy wordpress admin theme
 
 2/ Install
 
-  a/ make a require once to init.php or copy/paste code in function.php .. enjoy ..
+  a/ make a require once to inkcreativ_admin_class.php or copy/paste code in function.php .. enjoy ..
 
 3/ have to do
 
@@ -20,4 +20,4 @@ Trendy wordpress admin theme
   a/ Light theme 
  
 
-more infos ... www.flatmin.inkcreativ.com
+
