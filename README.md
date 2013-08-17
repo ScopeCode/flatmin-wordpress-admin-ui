@@ -4,20 +4,22 @@ flatmin-wordpress-admin-ui
 Trendy wordpress admin theme
 
 
-1/ This has ben created for my own use but wanted to share, feel free to edit and share your work ..
+<strong>1.</strong>  This has ben created for my own use but wanted to share, feel free to edit and share your work ..
 
-2/ Install
+<strong>2.</strong> Install
 
   a/ make a require once to inkcreativ_admin_class.php or copy/paste code in function.php .. enjoy ..
 
-3/ have to do
+<strong>3.</strong> Have to do
 
   a/ IE8 support<br>
   b/ tidy css and remove orphans
   
-4/ Future releases
+<strong>4.</strong> Future releases
 
-  a/ Light theme 
+  a/ Light theme
+
+More on http://www.flatmin.inkcreativ.com 
  
 
 
